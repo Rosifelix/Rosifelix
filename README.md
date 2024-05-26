@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rosifelix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá! Eu sou a Rosi Felix
+
+- 🌱 Estudando Java
+- 💞️ Analista de Testes(QA)
+
 
 <!---
 Rosifelix/Rosifelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
