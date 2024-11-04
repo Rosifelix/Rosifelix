@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Rosilene Félix<br><br>- 🔭 Sou Analista de Teste (QA)<br>- 📚 Atualmente estou aprendendo Java<br>- ⚡ No meu tempo livre amo me exercitar</p>
+<p align="left">Me chamo Rosilene Félix<br><br>- 🔭 Sou Analista de Teste (QA)<br>- 📚 Atualmente estou aprendendo Cypress e Robot<br>- ⚡ No meu tempo livre amo me exercitar</p>
 
 
 ## Linguagens de programação
